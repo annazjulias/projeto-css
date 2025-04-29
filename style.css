@@ -20,7 +20,9 @@
     margin-top: 20%;
 }
 
-
+section {
+    display: inline-block;
+}
 
 .container-right {
     display: inline-block;
@@ -46,9 +48,9 @@ h1 {
 }
 
 p {
-    width: 495px;
+    width: 500px;
     font-size: 28px;
-    line-height: 48px;
+    line-height: 50px;
     opacity: 0.6;
     margin: 15px 0;
     display: inline-block;
